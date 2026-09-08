@@ -2,4 +2,5 @@ raw/
 Transformed/
 Gold/
 cron.log
-
+source_files/
+json_and_CSV
